@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\никита\yandexdisk\study\6th_semester\структуры данных и алгоритмы\lab3\problembc++_1\problembc++_1\source.cpp(35): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\никита\yandexdisk\study\6th_semester\структуры данных и алгоритмы\lab3\problembc++_1\problembc++_1\source.cpp(55): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  ProblemBC++_1.vcxproj -> C:\Users\Никита\YandexDisk\Study\6th_semester\Структуры данных и алгоритмы\Lab3\ProblemBC++_1\Debug\ProblemBC++_1.exe

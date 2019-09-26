@@ -1,0 +1,6 @@
+C:\Users\Никита\YandexDisk\Study\6th_semester\Структуры данных и алгоритмы\Lab6\ProblemACSharp\ProblemACSharp\bin\Debug\ProblemACSharp.exe.config
+C:\Users\Никита\YandexDisk\Study\6th_semester\Структуры данных и алгоритмы\Lab6\ProblemACSharp\ProblemACSharp\bin\Debug\ProblemACSharp.exe
+C:\Users\Никита\YandexDisk\Study\6th_semester\Структуры данных и алгоритмы\Lab6\ProblemACSharp\ProblemACSharp\bin\Debug\ProblemACSharp.pdb
+C:\Users\Никита\YandexDisk\Study\6th_semester\Структуры данных и алгоритмы\Lab6\ProblemACSharp\ProblemACSharp\obj\Debug\ProblemACSharp.csproj.CoreCompileInputs.cache
+C:\Users\Никита\YandexDisk\Study\6th_semester\Структуры данных и алгоритмы\Lab6\ProblemACSharp\ProblemACSharp\obj\Debug\ProblemACSharp.exe
+C:\Users\Никита\YandexDisk\Study\6th_semester\Структуры данных и алгоритмы\Lab6\ProblemACSharp\ProblemACSharp\obj\Debug\ProblemACSharp.pdb

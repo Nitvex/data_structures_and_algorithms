@@ -1,0 +1,9 @@
+﻿  ProblemBC++.cpp
+c:\users\никита\yandexdisk\study\6th_semester\структуры данных и алгоритмы\lab3\problembc++\problembc++\problembc++.cpp(20): error C3861: sqrt: идентификатор не найден
+c:\users\никита\yandexdisk\study\6th_semester\структуры данных и алгоритмы\lab3\problembc++\problembc++\problembc++.cpp(30): error C3861: malloc: идентификатор не найден
+c:\users\никита\yandexdisk\study\6th_semester\структуры данных и алгоритмы\lab3\problembc++\problembc++\problembc++.cpp(44): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\никита\yandexdisk\study\6th_semester\структуры данных и алгоритмы\lab3\problembc++\problembc++\problembc++.cpp(53): error C2065: UINT_MAX: необъявленный идентификатор
+c:\users\никита\yandexdisk\study\6th_semester\структуры данных и алгоритмы\lab3\problembc++\problembc++\problembc++.cpp(54): error C2065: USHRT_MAX: необъявленный идентификатор
+c:\users\никита\yandexdisk\study\6th_semester\структуры данных и алгоритмы\lab3\problembc++\problembc++\problembc++.cpp(62): error C2065: USHRT_MAX: необъявленный идентификатор
+c:\users\никита\yandexdisk\study\6th_semester\структуры данных и алгоритмы\lab3\problembc++\problembc++\problembc++.cpp(66): error C3861: sqrt: идентификатор не найден
+c:\users\никита\yandexdisk\study\6th_semester\структуры данных и алгоритмы\lab3\problembc++\problembc++\problembc++.cpp(71): warning C4244: =: преобразование "double" в "int", возможна потеря данных

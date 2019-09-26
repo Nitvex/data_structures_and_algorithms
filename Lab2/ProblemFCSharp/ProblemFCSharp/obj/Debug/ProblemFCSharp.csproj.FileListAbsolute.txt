@@ -1,0 +1,7 @@
+C:\Users\Никита\YandexDisk\Study\6th_semester\Структуры данных и алгоритмы\Lab2\ProblemFCSharp\ProblemFCSharp\bin\Debug\ProblemFCSharp.exe.config
+C:\Users\Никита\YandexDisk\Study\6th_semester\Структуры данных и алгоритмы\Lab2\ProblemFCSharp\ProblemFCSharp\bin\Debug\ProblemFCSharp.exe
+C:\Users\Никита\YandexDisk\Study\6th_semester\Структуры данных и алгоритмы\Lab2\ProblemFCSharp\ProblemFCSharp\bin\Debug\ProblemFCSharp.pdb
+C:\Users\Никита\YandexDisk\Study\6th_semester\Структуры данных и алгоритмы\Lab2\ProblemFCSharp\ProblemFCSharp\obj\Debug\ProblemFCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Никита\YandexDisk\Study\6th_semester\Структуры данных и алгоритмы\Lab2\ProblemFCSharp\ProblemFCSharp\obj\Debug\ProblemFCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Никита\YandexDisk\Study\6th_semester\Структуры данных и алгоритмы\Lab2\ProblemFCSharp\ProblemFCSharp\obj\Debug\ProblemFCSharp.exe
+C:\Users\Никита\YandexDisk\Study\6th_semester\Структуры данных и алгоритмы\Lab2\ProblemFCSharp\ProblemFCSharp\obj\Debug\ProblemFCSharp.pdb

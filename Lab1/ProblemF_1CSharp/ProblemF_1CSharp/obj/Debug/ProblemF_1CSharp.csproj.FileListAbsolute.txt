@@ -1,0 +1,7 @@
+C:\Users\Никита\YandexDisk\Study\6th_semester\Структуры данных и алгоритмы\Lab1\ProblemF_1CSharp\ProblemF_1CSharp\bin\Debug\ProblemF_1CSharp.exe.config
+C:\Users\Никита\YandexDisk\Study\6th_semester\Структуры данных и алгоритмы\Lab1\ProblemF_1CSharp\ProblemF_1CSharp\bin\Debug\ProblemF_1CSharp.exe
+C:\Users\Никита\YandexDisk\Study\6th_semester\Структуры данных и алгоритмы\Lab1\ProblemF_1CSharp\ProblemF_1CSharp\bin\Debug\ProblemF_1CSharp.pdb
+C:\Users\Никита\YandexDisk\Study\6th_semester\Структуры данных и алгоритмы\Lab1\ProblemF_1CSharp\ProblemF_1CSharp\obj\Debug\ProblemF_1CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Никита\YandexDisk\Study\6th_semester\Структуры данных и алгоритмы\Lab1\ProblemF_1CSharp\ProblemF_1CSharp\obj\Debug\ProblemF_1CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Никита\YandexDisk\Study\6th_semester\Структуры данных и алгоритмы\Lab1\ProblemF_1CSharp\ProblemF_1CSharp\obj\Debug\ProblemF_1CSharp.exe
+C:\Users\Никита\YandexDisk\Study\6th_semester\Структуры данных и алгоритмы\Lab1\ProblemF_1CSharp\ProblemF_1CSharp\obj\Debug\ProblemF_1CSharp.pdb

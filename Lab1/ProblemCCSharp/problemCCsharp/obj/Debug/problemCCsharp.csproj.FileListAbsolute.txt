@@ -1,0 +1,7 @@
+C:\Users\Никита\YandexDisk\Study\6th_semester\Структуры данных и алгоритмы\Lab1\problemCCsharp\problemCCsharp\bin\Debug\problemCCsharp.exe.config
+C:\Users\Никита\YandexDisk\Study\6th_semester\Структуры данных и алгоритмы\Lab1\problemCCsharp\problemCCsharp\bin\Debug\problemCCsharp.exe
+C:\Users\Никита\YandexDisk\Study\6th_semester\Структуры данных и алгоритмы\Lab1\problemCCsharp\problemCCsharp\bin\Debug\problemCCsharp.pdb
+C:\Users\Никита\YandexDisk\Study\6th_semester\Структуры данных и алгоритмы\Lab1\problemCCsharp\problemCCsharp\obj\Debug\problemCCsharp.csprojResolveAssemblyReference.cache
+C:\Users\Никита\YandexDisk\Study\6th_semester\Структуры данных и алгоритмы\Lab1\problemCCsharp\problemCCsharp\obj\Debug\problemCCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Никита\YandexDisk\Study\6th_semester\Структуры данных и алгоритмы\Lab1\problemCCsharp\problemCCsharp\obj\Debug\problemCCsharp.exe
+C:\Users\Никита\YandexDisk\Study\6th_semester\Структуры данных и алгоритмы\Lab1\problemCCsharp\problemCCsharp\obj\Debug\problemCCsharp.pdb
